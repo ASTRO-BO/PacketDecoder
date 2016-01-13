@@ -1,6 +1,6 @@
 - Encoder and Decoder for PacketLib
-- Created by V. Fioretti (INAF/IASF Bologna)
 ==========================================
+Created by V. Fioretti (INAF/IASF Bologna)
 
 - Usage for encoder
 
