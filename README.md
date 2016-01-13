@@ -1,12 +1,11 @@
-- Encoder and Decoder for PacketLib -
-
-Created by V. Fioretti (INAF/IASF Bologna)
+- Encoder and Decoder for PacketLib
+- Created by V. Fioretti (INAF/IASF Bologna)
 ==========================================
 
-1. Usage for encoder
+- Usage for encoder
 
 ./RTAencoder test.raw
 
-2. Usage for decoder
+- Usage for decoder
 
 ./RTAdecoder test.raw
